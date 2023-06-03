@@ -29,8 +29,8 @@
 
 
 # Guide
-## User Guide
-### Requirements
+
+## Requirements
 For using the dashboard service, you need:
 - Upbit account
 -- access key, secret key
@@ -39,7 +39,7 @@ For using the dashboard service, you need:
 
 해당 [문서](https://github.com/hkh1284/Wealth-management-Dashboard/blob/main/doc/Requirement.pdf)를 참고
 
-
+## User Guide
 
 
 ## Developer Guide
