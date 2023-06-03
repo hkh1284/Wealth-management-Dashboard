@@ -1,15 +1,15 @@
-# Wealth-management-Dashboard
+## Wealth-management-Dashboard
 <p align="center">
   <img src="https://storage.cobak.co/uploads/1678684322283944_e59b7c420a.png" width="300" height="200">
 </p>
 
 
-# Upbit-Bithumb Integrated Dashboard v.1.0
-> 제작자: 허경환
-> 개발기간: 2023.03.15 ~2023.06.06
+## Upbit-Bithumb Integrated Dashboard
+- 제작자: 허경환
+- 개발기간: 2023.03.15 ~2023.06.06
 
-# 배포 주소
-
+## 배포 주소
+- 태블로 커뮤니티 : [Upbit-Bithumb Integrated Dashboard - ver 1.0](https://public.tableau.com/views/sw_16854476691840/sheet4?:language=ko-KR&:display_count=n&:origin=viz_share_link)
 
 ## (7) 프로젝트 소개
 
