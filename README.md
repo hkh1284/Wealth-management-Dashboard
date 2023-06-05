@@ -52,9 +52,6 @@ For using the dashboard service, you need:
 </p>
 
 
-# Support ENV(OS)
-
-
 # Version
 - Spark version 3.1.2
 - Python version 3.9.13
