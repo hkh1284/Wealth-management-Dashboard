@@ -1,6 +1,6 @@
 # Wealth-management-Dashboard
 <p align="center">
-  <img src="https://storage.cobak.co/uploads/1678684322283944_e59b7c420a.png" width="300" height="200">
+  <img src="https://storage.cobak.co/uploads/1678684322283944_e59b7c420a.png">
 </p>
 
 
