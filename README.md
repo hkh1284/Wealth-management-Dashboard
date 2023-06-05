@@ -56,10 +56,10 @@ For using the dashboard service, you need:
 
 
 # Version
-Spark version 3.1.2
-Python version 3.9.13
-MySQL version 8.0.31
-Tableau version 2022.3
+- Spark version 3.1.2
+- Python version 3.9.13
+- MySQL version 8.0.31
+- Tableau version 2022.3
 
 # Licenses
 
