@@ -56,12 +56,16 @@ For using the dashboard service, you need:
 
 
 # Version
-
+Spark version 3.1.2
+Python version 3.9.13
+MySQL version 8.0.31
+Tableau version 2022.3
 
 # Licenses
 
 
 # References
+아파치 스파크 doc(3.3.1), https://spark.apache.org/docs/latest/api/python
 
 
 
