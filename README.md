@@ -59,7 +59,7 @@ For using the dashboard service, you need:
 - Tableau version 2022.3
 
 # Licenses
-
+MIT
 
 # References
 Apache Spark doc(3.3.1), https://spark.apache.org/docs/latest/api/python
