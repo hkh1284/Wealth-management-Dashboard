@@ -37,37 +37,20 @@ For using the dashboard service, you need:
 - Bithumb account
   - connect key, secret key
 
-해당 [문서](https://github.com/hkh1284/Wealth-management-Dashboard/blob/main/doc/Requirement.pdf)를 참고
+해당 [문서](https://github.com/hkh1284/Wealth-management-Dashboard/blob/main/doc/Requirement.pdf) 참고
 
 ## User Guide
-
+해당 [문서]() 참고
 
 ## Developer Guide
+해당 [문서]() 참고
 
 
+# Teck Stack
+<p align="center">
+  <img src="https://evanescent-farmer-665.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc614d19c-ddfe-4570-9b92-06f527146322%2Farchitecture.png?id=21db0d75-7cae-4c7e-a6e2-488dc3908ad1&table=block&spaceId=d57ea48f-ad48-4ebe-bdc0-a42c85aca32e&width=1950&userId=&cache=v2">
+</p>
 
-# Project Topic
-업비트와 빗썸의 개인 계정 자산을 통합 관리할 수 있는 자산관리 대시보드
-
-
-# Project Purpose
-사용자에게 업비트와 빗썸 거래소의 자산정보를 통합 관리할 수 있는 대시보드 제공
-
-# Expectation effect
-
-
-# Prerequisites
-업비트 계정
-빗썸 계정
-
-
-# How to run it
-
-
-# Project Structure
-
-
-# Core Technology
 
 # Support ENV(OS)
 
