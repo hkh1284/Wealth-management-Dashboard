@@ -65,7 +65,8 @@ Tableau version 2022.3
 
 
 # References
-아파치 스파크 doc(3.3.1), https://spark.apache.org/docs/latest/api/python
+Apache Spark doc(3.3.1), https://spark.apache.org/docs/latest/api/python
+MySQL connector, https://www.mysql.com/products/connector/
 
 
 
