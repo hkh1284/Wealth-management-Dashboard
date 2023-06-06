@@ -66,6 +66,10 @@ Apache Spark doc(3.3.1), https://spark.apache.org/docs/latest/api/python
 
 MySQL connector, https://www.mysql.com/products/connector/
 
+Upbit API Docs, https://docs.upbit.com/
+
+Bithumb API Docs, https://apidocs.bithumb.com/
+
 
 
 
