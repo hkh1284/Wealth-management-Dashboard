@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\gocjs",
+  "password": false,
+  "pid": 3200,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "4f5d147269ff5ec6ce6401a66d7cdb0d70a4be4ac0d5a648",
+  "url": "http://localhost:8888/"
+}
