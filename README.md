@@ -40,10 +40,10 @@ For using the dashboard service, you need:
 해당 [문서](https://github.com/hkh1284/Wealth-management-Dashboard/blob/main/doc/Requirement.pdf) 참고
 
 ## User Guide
-해당 [문서](https://github.com/hkh1284/Wealth-management-Dashboard/blob/main/doc/사용자 가이드.pdf) 참고
+해당 [문서](https://github.com/hkh1284/Wealth-management-Dashboard/blob/main/doc/사용자가이드.pdf) 참고
 
 ## Developer Guide
-해당 [문서](https://github.com/hkh1284/Wealth-management-Dashboard/blob/main/doc/개발자 가이드.pdf) 참고
+해당 [문서](https://github.com/hkh1284/Wealth-management-Dashboard/blob/main/doc/개발자가이드.pdf) 참고
 
 
 # Architecture
